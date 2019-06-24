@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-zzzzzz"
 name                     : "Seunghyo Ku"
-description              : "TIL"
+description              : "Future Full-stack engineer"
 url                      : "https://seunghyoku.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SeunghyoKu/seunghyoku.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
