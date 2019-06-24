@@ -1,7 +1,11 @@
 ---
-title: "Hello Jekyll!"
+title: "여성테크세미나 후기"
 date: 2019-06-24 00:00:00 -0400
-categories: hello world
+categories: seminar tech-community
 ---
 
-My first upload
+# 여성테크커뮤니티 합동 세미나
+
+- 일시: 2019년 6월 9일 2시
+- 장소: 한국마이크로소프트 11층 강당
+
