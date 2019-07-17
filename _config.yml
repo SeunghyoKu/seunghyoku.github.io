@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Seunghyo Ku"
   avatar           : blog1.jpg# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Current student majoring in IT Technology @SeoulTech"
+  bio              : "Current student majoring in IT Management @SeoulTech"
   location         : "Seoul, South Korea"
   links:
     - label: "Email"
