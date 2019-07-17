@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello World!"
+title                    : "Study + Share Growth"
 title_separator          : "-"
 name                     : "Seunghyo Ku"
 description              : ""
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Seunghyo Ku"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : blog1.jpg# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Current student majoring in IT Technology @SeoulTech"
   location         : "Seoul, South Korea"
   links:
