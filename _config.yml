@@ -111,9 +111,9 @@ author:
   bio              : "Current student majoring in IT Management @SeoulTech"
   location         : "Seoul, South Korea"
   links:
-    label: "Email"
-    icon: "fas fa-fw fa-envelope-square"
-    url:   "mailto:seunghyoku@gmail.com"
+    - label: "Email"
+       icon: "fas fa-fw fa-envelope-square"
+       url:   "mailto:seunghyoku@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
