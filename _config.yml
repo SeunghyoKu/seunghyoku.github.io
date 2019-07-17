@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Study + Share Growth"
+title                    : "Study + Share = Growth"
 title_separator          : "-"
 name                     : "Seunghyo Ku"
 description              : ""
@@ -111,9 +111,9 @@ author:
   bio              : "Current student majoring in IT Management @SeoulTech"
   location         : "Seoul, South Korea"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url:   "mailto:seunghyoku@gmail.com"
+    label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url:   "mailto:seunghyoku@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
