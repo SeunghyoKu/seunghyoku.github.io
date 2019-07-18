@@ -4,8 +4,8 @@ main:
     url: https://seunghyoku.github.io/about/
   - title: "Tags"
     url: https://seunghyoku.github.io/tags
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Posts"
+    url: /_post
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
