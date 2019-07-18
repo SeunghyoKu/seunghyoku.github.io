@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "쌩초보 개발일기"
+title                    : "Lv.1 개발일기"
 title_separator          : "-"
 name                     : "Seunghyo Ku"
 description              : ""
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Seunghyo Ku"
-  avatar           : blog1.jpg #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : github_profile.jpg #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Current student majoring in IT Management @SeoulTech"
   location         : "Seoul, South Korea"
   links:
