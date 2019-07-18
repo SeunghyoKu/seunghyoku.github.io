@@ -6,5 +6,4 @@ toc: true
 ---
 
 Hello!
-I am a student majoring in Seoultech now. :smile:
-
+I am a student majoring in IT Management at Seoultech currently. :smile:
