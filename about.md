@@ -6,7 +6,7 @@ layouts_gallery:
   -url:
   -image_path:
   -alt:
-toc: false #옆에 목차 뜨는 곳
+toc: true #옆에 목차 뜨는 곳
 
 ---
 
