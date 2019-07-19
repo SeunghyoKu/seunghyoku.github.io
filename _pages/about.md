@@ -1,7 +1,6 @@
 ---
 layout: tags
 permalink: /about/
-Title: 안녕하세요!
 ---
 ## 안녕하세요!
 
