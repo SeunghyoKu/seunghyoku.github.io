@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: home
 permalink: /about/
 ---
+
 ## 안녕하세요!
 
 개발자를 목표로 하는 구승효입니다.
