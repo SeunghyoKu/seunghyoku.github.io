@@ -3,6 +3,7 @@ layout: tags
 permalink: /about/
 Title: 안녕하세요!
 ---
+## 안녕하세요!
 
 개발자를 목표로 하는 구승효입니다.
 제 블로그에 찾아와주셔서 감사합니다! :smile:
