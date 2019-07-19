@@ -6,7 +6,6 @@ layouts_gallery:
   -url:
   -image_path:
   -alt:
-toc: true
 ---
 
 ## 반갑습니다
