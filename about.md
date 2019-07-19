@@ -1,13 +1,12 @@
 ---
 permalink: /about/
-title: "배워가는 꼬꼬마 개발자의 일기"
+title: "About Me"
 last_modified_at: 2019-07-19
 layouts_gallery:
   -url:
   -image_path:
   -alt:
 toc: true
-
 ---
 
 ## 반갑습니다
