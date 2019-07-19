@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: https://seunghyoku.github.io/about/
-  - title: "Tags"
-    url: https://seunghyoku.github.io/tags
-  - title: "Posts"
-    url: /_post
+  #- title: "Tags"
+  #  url: https://seunghyoku.github.io/tags
+  #- title: "Posts"
+  #  url: /_post
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
