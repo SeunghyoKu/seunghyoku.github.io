@@ -1,5 +1,5 @@
 ---
-layout: tag
+layout: tags
 permalink: /about/
 title: "About Me"
 
