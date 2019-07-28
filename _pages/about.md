@@ -1,10 +1,8 @@
 ---
-Title: About Me
+title: 안녕하세요
 layout: tags
 permalink: /about/
 ---
-## 안녕하세요!
-
 개발자를 목표로 하는 구승효입니다.
 제 블로그에 찾아와주셔서 감사합니다! :smile:
 공부했거나 경험한 것(컨퍼런스 등)들을 올립니다.
