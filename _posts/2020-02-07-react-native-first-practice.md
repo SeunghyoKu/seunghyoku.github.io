@@ -13,28 +13,28 @@ categories: React-Native
 버튼을 클릭하면 alert 메세지가 뜨는 간단한 어플입니다.
 
 
-1. bold 체 적용하기 
-평소에도 굵은 글씨를 좋아하기 때문에 이것부터 먼저 적용해보았습니다.
+### 1. bold 체 적용하기 
+평소에도 **굵은** 글씨를 좋아하기 때문에 이것부터 먼저 적용해보았습니다.
 
 ```react
-<Text style={{fontWeight:'bold'}}> 단번에 </Text>
+<Text style=`{{fontWeight:'bold'}}`> 단번에 </Text>
 ```
 
 fontWeight를 이용해서 적용해주면 됩니다.
 텍스트 안에 새로운 텍스트를 넣고, 거기에 스타일을 적용하는 형식입니다.
 
 
-2. italic 체 적용하기
-
+### 2. italic 체 적용하기
+강조를 위해 *기울인* 글씨를 적용하고 싶을 때 사용하면 됩니다.
 ```react
-<Text style={{fontStyle:'italic'}}>당신은 행운아입니다. {'\n'}</Text>
+<Text style=`{{fontStyle:'italic'}}`>당신은 행운아입니다. {'\n'}</Text>
 ```
 
 위와 똑같이 적용하나, fontStyle을 이용해서 italic으로 지정해주면 됩니다.
 참고로 엔터 효과를 내고 싶다면 {“\n”}을 삽입해주면 됩니다.
 
 
-3. 버튼에 동작 넣기
+### 3. 버튼에 동작 넣기
 
 ```react
 _onPressButton() {
