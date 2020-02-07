@@ -16,8 +16,8 @@ categories: React-Native
 1. bold 체 적용하기 
 평소에도 굵은 글씨를 좋아하기 때문에 이것부터 먼저 적용해보았습니다.
 
-```
-<Text style="{{fontWeight:"bold"}}"> 단번에 </Text>
+```JSX
+<Text style={{fontWeight:"bold"}}> 단번에 </Text>
 ```
 
 fontWeight를 이용해서 적용해주면 됩니다.
@@ -26,7 +26,7 @@ fontWeight를 이용해서 적용해주면 됩니다.
 
 2. italic 체 적용하기
 
-```
+```JSX
 <Text style=''{'{'fontStyle:"italic"'}''}'>당신은 행운아입니다. {"\n"}</Text>
 ```
 
@@ -36,7 +36,7 @@ fontWeight를 이용해서 적용해주면 됩니다.
 
 3. 버튼에 동작 넣기
 
-```
+```JSX
 _onPressButton() {
     alert('지금 당장요!')
   }
@@ -58,7 +58,7 @@ _onPressButton() {
 여기서의 styles는 아래와 같이 자바스크립트를 이용하며, 스타일 적용을 편하게 해준다고 합니다.
 하나하나 적용할 수 있지만, 이렇게 작성하면 확실히 더 편할 것 같습니다.
 
-```
+```JSX
 const styles = StyleSheet.create({
   container: {
    flex: 1,
