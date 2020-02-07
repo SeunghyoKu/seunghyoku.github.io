@@ -48,13 +48,11 @@ _onPressButton() {
 위처럼 render() 위에서 한 번 함수를 정해놓은 다음 아래와 같이 사용해주면 됩니다.
 
 ```
-<View style={styles.buttonContainer}>
-          <Button
-            onPress={this._onPressButton2}
-            title="집에 가고 싶지 않나요?"
-            color="steelblue"
-          />
-        </View>
+<Button
+  onPress={this._onPressButton2}
+  title="집에 가고 싶지 않나요?"
+  color="steelblue"
+/>
 ```
 
 여기서의 styles는 아래와 같이 자바스크립트를 이용하며, 스타일 적용을 편하게 해준다고 합니다.
