@@ -17,7 +17,7 @@ categories: React-Native
 평소에도 굵은 글씨를 좋아하기 때문에 이것부터 먼저 적용해보았습니다.
 
 ```
-<Text style={{'fontWeight:"bold"'}}> 단번에 </Text>
+<Text style='{{fontWeight:"bold"}}'> 단번에 </Text>
 ```
 
 fontWeight를 이용해서 적용해주면 됩니다.
@@ -27,7 +27,7 @@ fontWeight를 이용해서 적용해주면 됩니다.
 2. italic 체 적용하기
 
 ```
-<Text style={{'fontStyle:"italic"'}}>당신은 행운아입니다. {"\n"}</Text>
+<Text style='{{fontStyle:"italic"}}'>당신은 행운아입니다. {"\n"}</Text>
 ```
 
 위와 똑같이 적용하나, fontStyle을 이용해서 italic으로 지정해주면 됩니다.
