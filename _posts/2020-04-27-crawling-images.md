@@ -102,7 +102,7 @@ def get(count = 1):
 ```
 
 저는 get(8)로 8개만 다운 받는 것을 진행하였고 다음과 같이 구글 드라이브에 다운이 되는 것을 확인할 수 있답니다.
-[image](https://user-images.githubusercontent.com/43411599/80313705-aca7c680-8827-11ea-9904-43926b214fc0.png)
+![image](https://user-images.githubusercontent.com/43411599/80313705-aca7c680-8827-11ea-9904-43926b214fc0.png)
 
 
 처음 크롤링을 도전해보는 것이었는데, beautifulSoup만을 이용하여 간단히 다운받아보았습니다.
