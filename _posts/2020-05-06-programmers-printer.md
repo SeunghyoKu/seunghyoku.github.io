@@ -1,5 +1,5 @@
 ---
-title: "[Python, JS]프린터 풀이(프로그래머스 Lv.2)"
+title: "[Python]프린터 풀이(프로그래머스 Lv.2)"
 date: 2020-05-06
 categories: Python algorithm programmers JavaScript
 ---
