@@ -6,6 +6,8 @@ categories: Colab Keras
 
 오늘 하루도 열심히 코딩해볼까? 하면서 코랩을 켠 당신 !!
 그러나 실행하자 보이는 것은 아래와 같은 오류일 수가 있습니다.
+
+
 ``` ValueError: mount failed: timeout during initial read of root folder; ```
 
 바로 제 얘기입니다. :(
