@@ -20,6 +20,8 @@ categories: DeepLearning AI
 
 `
 가중치(weight): 각 입력 신호가 결과에 주는 영향력(=중요도)를 조절함
+
+
 편향(bias): 뉴런이 얼마나 쉬게 활성화되는지를 결정함
 `
 
