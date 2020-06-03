@@ -104,7 +104,7 @@ branch 즉 가지를 만들어서 코드를 작성하게 되면 원본 파일에
 git checkout -b 명령어는 해당 branch를 생성한 후, 전환하는 기능까지 포함합니다.
 
 
-`git checout 브랜치이름`의 경우에는 
+`git checout 브랜치이름` 
 
 
 `git checkout -b 브랜치이름`
