@@ -1,6 +1,6 @@
 ---
 title: 안녕하세요
-layout: tags
+layout: default
 permalink: /about/
 ---
 개발자를 목표로 하는 구승효입니다.
