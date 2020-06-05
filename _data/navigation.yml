@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: https://seunghyoku.github.io/about/
-  - title: "Tags"
-    url: https://seunghyoku.github.io/tags
+  - title: "Categories"
+    url: https://seunghyoku.github.io/categories/
   #- title: "Posts"
   #  url: /_post
   # - title: "Sample Collections"
