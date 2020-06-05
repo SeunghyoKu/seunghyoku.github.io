@@ -10,7 +10,9 @@ permalink: /about/
 
 문의나 조언은 언제나 환영합니다.
 메일로 보내주시면 감사하겠습니다.
-감사합니다!
+
+
+읽어주셔서 감사합니다!
 
 
 # Hello!
@@ -21,4 +23,6 @@ I usually post what I have learned and experienced.
 
 Inquiries and advices are always welcome.
 Please send me an e-mail then.
+
+
 Thank you!
