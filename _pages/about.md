@@ -1,6 +1,6 @@
 ---
 title: 안녕하세요!
-layout: tags
+author_profile: true
 permalink: /about/
 ---
 
