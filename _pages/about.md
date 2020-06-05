@@ -11,7 +11,7 @@ permalink: /about/
 메일로 보내주시면 감사하겠습니다.
 
 
-## Hello!
+# Hello!
 
 I am Seunghyo Ku who wants to be a full-stack developer.
 Thanks for visiting my dev-log. :smile:
