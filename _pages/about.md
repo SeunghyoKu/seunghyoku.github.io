@@ -1,5 +1,6 @@
 ---
 title: 안녕하세요!
+layout: default
 author_profile: true
 permalink: /about/
 ---
