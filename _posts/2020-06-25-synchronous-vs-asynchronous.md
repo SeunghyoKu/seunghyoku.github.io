@@ -20,8 +20,12 @@ categories: TIL Android RiotAPI LolDab RESTAPI
 
 
 뭐가 문제였을까?
-동기적(Synchronous): 순차적, 직렬적으로 작업
-비동기적(Asynchronous): 병렬적으로 작업
+
+
+- 동기적(Synchronous): 순차적, 직렬적으로 작업
+
+
+- 비동기적(Asynchronous): 병렬적으로 작업
 
 
 받아오는 시간이 좀 걸려서 아직 값을 받아오지 않은, 즉 초기화했을 때의 상태가 보이던 문제는 이것이 동기적으로 작업되기 떄문이었다.
