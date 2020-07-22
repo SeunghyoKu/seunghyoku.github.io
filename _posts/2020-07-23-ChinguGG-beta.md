@@ -1,5 +1,5 @@
 ---
-title: [
+title: "Riot API를 이용한 안드로이드 앱 베타 버전 완성 후기"
 date: 2020-07-23
 categories: ChinguGG RiotAPI Android
 ---
