@@ -14,8 +14,8 @@ categories: ChinguGG RiotAPI Android
 제가 만든 애플리케이션의 결과물은 다음과 같습니다.
 
 
-![화면1](https://user-images.githubusercontent.com/43411599/88195094-910f5900-cc7a-11ea-8d5d-b68d64da8ae4.png)
-![화면2](https://user-images.githubusercontent.com/43411599/88195136-9e2c4800-cc7a-11ea-9268-e03ff5f13f65.png)
+![화면1](https://user-images.githubusercontent.com/43411599/88195094-910f5900-cc7a-11ea-8d5d-b68d64da8ae4.png){: width="50%" height="50%"}
+![화면2](https://user-images.githubusercontent.com/43411599/88195136-9e2c4800-cc7a-11ea-9268-e03ff5f13f65.png){: width="50%" height="50%"}
 
 
 아이디만 검색하면 롤을 하고 있는지, 쉬고 있는지, 없는 아이디인지 확인해 결과를 보여주는 창을 띄워줍니다.
