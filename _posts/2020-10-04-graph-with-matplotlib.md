@@ -68,6 +68,8 @@ plt.yticks([i*10 for i in range(1,7)])
 plt.savefig('loss_graph.png')
 ```
 
+아래는 최종적으로 얻은 그래프입니다.
+
 ![graph](https://user-images.githubusercontent.com/43411599/94995409-0bdce480-05d9-11eb-94d4-c7c85a941605.png)
 
 
