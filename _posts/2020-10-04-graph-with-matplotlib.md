@@ -25,7 +25,7 @@ from pandas import DataFrame
 물론.. 학습 중에 그릴 수도 있지만, 에포크 중간중간 서버 연결이 끊기기도 했어서 값을 저장한 후 따로 그려주었습니다.
 
 ```py
-df = pd.read_csv('/content/gdrive/My Drive/Colab Notebooks/loss_graph.csv')
+df = pd.read_csv('경로/loss_graph.csv')
 ```
 
 아래는 처음 데이터를 불러왔을 때의 모습입니다.
